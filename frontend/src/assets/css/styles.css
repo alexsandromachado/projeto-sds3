@@ -7,6 +7,9 @@ html, body {
     height: 100%;
     font-family: "Ubuntu", sans-serif;
 }
+a{
+    text-decoration: none;
+}
 
 #root {
     display: flex;
